@@ -1,0 +1,13 @@
+
+Nome: adriane
+Idade: 49
+Cpf: 555666777888
+
+Nome: ricardo
+Idade: 33
+Cpf: 555666777
+
+Nome: davi
+Idade: 11
+Cpf: 555666777
+
