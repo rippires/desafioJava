@@ -1,4 +1,4 @@
-package br.com.desafio;
+package br.com.desafio.exercicio.dois;
 
 import java.util.Locale;
 
